@@ -56,10 +56,16 @@ li:hover a{
     row-gap: 20px;
 }
 
+p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .tableau {
     width: 70%;
     padding: 5px;
     margin: auto;
+    text-align: center;
 }
 
 .tableauPlaceholder {
